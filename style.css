@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Niramit:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 
 :root {
-  --bg-color: #6F4E37;
-  --primary-color: #ECB176;
-  --secundary-color: #FED8B1;
-  --font: Grandstander;
+  --bg-color: #05062b;
+  --primary-color: #ca7d18;
+  --secundary-color: #252522;
+  --font: Niramit;
 }
 body {
     background-color: var(--bg-color);
@@ -18,7 +18,7 @@ body {
     text-align: center;
     padding: 1px;
   }
-  h1 {
+  h1  {
     font-size: 2rem;
     color: var(--bg-color);
     font-weight: 700;
@@ -58,3 +58,4 @@ body {
     height: 3rem;
     margin-top: 2rem;
   }
+  
