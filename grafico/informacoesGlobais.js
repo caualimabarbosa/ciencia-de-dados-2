@@ -1,4 +1,4 @@
-const url=https://github.com/silviosnjr/CienciaDeDados-CriandoGraficosDinamicosComJavaScript/blob/Aula01/trabalho/trabalho-dados-gerais.json
+const url=https:'//github.com/silviosnjr/CienciaDeDados-CriandoGraficosDinamicosComJavaScript/blob/Aula01/trabalho/trabalho-dados-gerais.json'
 async function vizualizarInformacoesGlobais() {
 
     const res = await fetch(url)
